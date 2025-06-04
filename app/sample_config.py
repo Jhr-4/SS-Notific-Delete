@@ -1,0 +1,1 @@
+SS_Path=r"C:/Users/username/folders/.../Screenshots"

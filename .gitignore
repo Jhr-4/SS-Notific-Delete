@@ -1,0 +1,13 @@
+/build/
+/dist/
+*.spec
+*.reg
+
+.env
+.venv
+/venv
+/logs/
+
+__pycache__/
+
+config.py
